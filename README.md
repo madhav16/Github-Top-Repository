@@ -40,13 +40,14 @@ Before running the application, ensure that you have the following installed on 
 5. **Open a New Terminal and Navigate to the Client Directory:**
 
     ```bash
-    cd ../
+    cd ../client
     ```
 
 6. **Install Frontend Dependencies:**
 
     ```bash
     npm install
+    npm install bootstrap
     ```
 
 7. **Run the React Frontend:**
@@ -66,15 +67,17 @@ Before running the application, ensure that you have the following installed on 
 
 If you are unable to open the client folder or React code directly, you can find the React code in the provided Word file.
 
-1. Download the Word file named `react_code.docx` from the root of this repository.
+1. Navigate to the GitHub repository:- https://github.com/madhav16/GitHub-Top-Repository-React-Code/
+   
+2. OR you can Download the Word file named `react_code.docx` from the root of this repository.
 
-2. Open the Word file using a compatible application, such as Microsoft Word or Google Docs.
+3. Open the Word file using a compatible application, such as Microsoft Word or Google Docs.
 
-3. Inside the Word file, you will find the complete React code along with any additional instructions or notes.
+4. Inside the Word file, you will find the complete React code along with any additional instructions or notes.
 
-4. Copy the React code from the Word file.
+5. Copy the React code from the Word file.
 
-5. Create a new React app or use an existing one.
+6. Create a new React app or use an existing one.
 
 6. Replace the contents of the React app's source folder with the copied code.
 
